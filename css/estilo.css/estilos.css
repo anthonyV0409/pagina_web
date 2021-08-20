@@ -24,7 +24,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', end
 body
 {
 	background:#FC9;
-	
+	max-width:100%;
 }
 /* menu horizontal*/
 #menu-h{
